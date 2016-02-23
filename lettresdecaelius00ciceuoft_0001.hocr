@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lettresdecaelius00ciceuoft_0001.png"; bbox 0 0 1978 3425; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 77 3120 337 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 77 3120 337 3156">
+     <span class='ocr_line' id='line_1_1' title="bbox 77 3120 337 3156; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 77 3120 337 3156; x_wconf 74' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 27 3197 589 3368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 27 3197 589 3368">
+     <span class='ocr_line' id='line_1_2' title="bbox 27 3197 589 3265; baseline 0.004 -13"><span class='ocrx_word' id='word_1_2' title='bbox 27 3212 413 3265; x_wconf 57' lang='lat' dir='ltr'>umnam-rx</span> <span class='ocrx_word' id='word_1_3' title='bbox 464 3255 468 3260; x_wconf 66' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 514 3197 529 3213; x_wconf 83' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 583 3247 589 3254; x_wconf 89' lang='grc'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 89 3295 533 3368; baseline -0.002 -37"><span class='ocrx_word' id='word_1_6' title='bbox 89 3295 353 3332; x_wconf 70' lang='lat' dir='ltr'>ToRnu&#39;ro</span> <span class='ocrx_word' id='word_1_7' title='bbox 463 3343 533 3368; x_wconf 55' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 458 0 1978 3425">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 458 0 1978 3425">
+     <span class='ocr_line' id='line_1_4' title="bbox 458 0 1978 3425; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 458 0 1978 3425; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
